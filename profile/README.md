@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://jeardlabs.com/">
-  <img src="assets/jeard-labs.png" alt="JEARD Labs logo" width="155" />
+  <img src="../jeardlabs-logo.png" alt="JEARD Labs logo" width="155" />
 </a>
 
 # JEARD Labs
